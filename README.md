@@ -6,6 +6,10 @@ A website I made to practice html, CSS, and Javascript. Everyone does a wordle c
 
 Use the hex shaped buttons to spell out words 4 letters or more. Words count for 1 point per letter, except for 4 letter words that provide a fixed 1 and pangrams which provide a bonus 7.
 
+# Where can I play?
+
+https://ammar-az.github.io/word-wasp/
+
 # What is the difference between easy and hard mode?
 
 Hard mode pulls from a larger word list which makes it a lot more difficult to find every word, with many being obscure or debatably not even words. The lists were quickly filtered to remove common names and places, but there are no guarantees. 
@@ -18,7 +22,7 @@ Couldn't tell you, but there's a suspicious bit of empty space right after it sa
 
 No, as demonstrated by the included image I lack the necessary skills to do so. I did manually calculate where to put points for the SVG hexagons if that counts for something
 
-![A work of art](/wasp.png)
+![A work of art](public/wasp.png)
 
 # Did you come up with the name yourself?
 
