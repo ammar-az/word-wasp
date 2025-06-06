@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-wasp/static/css/main.5b277cde.css",
+    "main.js": "/word-wasp/static/js/main.f7ccef1d.js",
+    "index.html": "/word-wasp/index.html",
+    "main.5b277cde.css.map": "/word-wasp/static/css/main.5b277cde.css.map",
+    "main.f7ccef1d.js.map": "/word-wasp/static/js/main.f7ccef1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b277cde.css",
+    "static/js/main.f7ccef1d.js"
+  ]
+}
